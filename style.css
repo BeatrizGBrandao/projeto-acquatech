@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    border: 1px solid pink;
+    margin: 0 10%;
+    /* margin: 0 10% 0 10%;
+    margin: 0 10% 0;  Em cima direita esquerda embaixo */
+}
+
+h1 {
+    color: #32D9CD;
+    margin: 0;
+}
+ 
+ul {
+    color: rgb(255, 255, 0);
+}
